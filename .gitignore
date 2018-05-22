@@ -8,6 +8,7 @@
 
 # production
 /build
+/src/**/*.css
 
 # misc
 .DS_Store
@@ -22,3 +23,6 @@ yarn-error.log*
 /1
 .idea/
 1
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
