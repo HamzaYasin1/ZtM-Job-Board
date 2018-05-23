@@ -1375,4 +1375,20 @@ export const persons = [
       country: "USA"
     }
   },
+  {
+    id: 82,
+    name: "Hamza Yasin",
+    img: "https://avatars0.githubusercontent.com/u/30287193?s=460&v=4",
+    links: {
+      website: "",
+      linkedin: "https://www.linkedin.com/in/hamzayasin/",
+      github: "https://github.com/HamzaYasin1"
+    },
+    jobTitle: "Full Stack and Blockchain Developer",
+    location: {
+      city: "Lahore",
+      state: "Punjab",
+      country: "Pakistan"
+    }
+  },
 ];
